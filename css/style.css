@@ -20,3 +20,13 @@
     font-weight: 600;
     font-size: 0.89rem;
 }
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}

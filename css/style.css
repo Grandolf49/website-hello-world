@@ -82,3 +82,8 @@ nav ul li a {
 .qualities-img {
     width: 175px;
 }
+
+.requirements-section {
+    background-color: #004d80;
+    color: white;
+}

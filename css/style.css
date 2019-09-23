@@ -65,3 +65,20 @@ nav ul li a {
 }
 
 /* End of Footer */
+
+/* Home Page */
+
+.top-hero-section {
+    background-color: #3498db;
+    color: white;
+}
+
+.top-hero-section a {
+    color: white;
+    font-weight: 600;
+    padding-left: 2%;
+}
+
+.qualities-img {
+    width: 175px;
+}
